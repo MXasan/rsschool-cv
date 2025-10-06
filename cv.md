@@ -17,7 +17,13 @@ contact:
 - vite
 - react
 
+`console.log(hello world)`
 
+**project:**
+- online school, where u can find a usefull video and make a note but before u watch lesson u should sign up. link: [project](https://mxasan.github.io/EdUmeed-mvp/)
+- christams shop u can search gift for ur freinds. link [project](https://christmas-shop-flame.vercel.app/)
+
+English level: b1
 
 
 
